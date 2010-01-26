@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Implementation,Phase-Design
+
+= Introduction =
+Free Visual Tkinter IDE for Python 2.6
+
+Add your content here.
+http://pythontr.org/
+http://blendertr.org/index.html
+http://uzaktanegitimmerkezi.org/
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
